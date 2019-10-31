@@ -1,0 +1,21 @@
+{
+    "name": "flat-dark-plus",
+    "displayName": "flat dark+",
+    "description": "The theme is based on Dark+(default dark)",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.39.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "flat dark+",
+                "uiTheme": "vs-dark",
+                "path": "./themes/flat-dark-plus-color-theme.json"
+            }
+        ]
+    }
+}
