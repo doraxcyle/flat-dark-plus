@@ -10,7 +10,7 @@ A dark theme for Visual Studio Code, The theme is based on Dark+ (default dark) 
 
 ## What's new?
 
-Click here to go to the [Changelog]( https://github.com/xcyl/flat-dark-plus/blob/master/CHANGELOG.md )
+Click here to go to the [Changelog](https://github.com/xcyl/flat-dark-plus/blob/master/CHANGELOG.md)
 
 ## More Information
 
