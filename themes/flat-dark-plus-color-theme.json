@@ -29,7 +29,7 @@
 		// "editorGroupHeader.tabsBorder": "#1e1e1e",
 		"tab.inactiveBackground": "#1e1e1e",
 		"tab.activeBackground": "#37373d",
-		// "scrollbar.shadow": "#1e1e1e",
+		"scrollbar.shadow": "#1e1e1e",
 		"statusBar.debuggingBackground": "#1e1e1e",
 		"statusBar.noFolderBackground": "#1e1e1e",
 		"menu.background": "#1e1e1e",
