@@ -22,17 +22,20 @@
 		"statusBar.background": "#1e1e1e",
 		"activityBar.background": "#1e1e1e",
 		"sideBarSectionHeader.background": "#1e1e1e",
+		"list.inactiveSelectionBackground": "#37373d",
 		"sideBar.background": "#1e1e1e",
 		"sideBar.border": "#1e1e1e",
 		"editorGroupHeader.tabsBackground": "#1e1e1e",
-		"editorGroupHeader.tabsBorder": "#1e1e1e",
+		// "editorGroupHeader.tabsBorder": "#1e1e1e",
 		"tab.inactiveBackground": "#1e1e1e",
 		"tab.activeBackground": "#37373d",
-		"scrollbar.shadow": "#1e1e1e",
+		// "scrollbar.shadow": "#1e1e1e",
 		"statusBar.debuggingBackground": "#1e1e1e",
 		"statusBar.noFolderBackground": "#1e1e1e",
 		"menu.background": "#1e1e1e",
-		"panel.border": "#1e1e1e"
+		"panel.border": "#1e1e1e",
+		"tab.activeBorder": "#007acc",
+		"tab.hoverBorder": "#007acc",
 	},
 	"tokenColors": [
 		{
