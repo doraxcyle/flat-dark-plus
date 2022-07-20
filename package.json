@@ -4,6 +4,7 @@
     "description": "A flat dark theme for Visual Studio Code. The theme is based on Dark+ (default dark) but with better features.",
     "version": "1.0.0",
     "publisher": "xcyl",
+    "contributors": ["utibe inyangetuk"],
     "keywords": [
         "vscode",
         "dark",
