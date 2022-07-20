@@ -23,8 +23,59 @@ A flat dark theme for Visual Studio Code that is based on Dark+ (default dark) b
 
 #
 
-## Screenshots
+## <b>Screenshots</b>
+<br>
 
-![](https://raw.githubusercontent.com/xcyl/flat-dark-plus/master/welcome.png)
+# - <b>welcome page</b>
 
-![](https://raw.githubusercontent.com/xcyl/flat-dark-plus/master/editor.png)
+![](https://raw.githubusercontent.com/utibeinyangetuk/flat-dark-plus/master/welcome.png)
+# - <b>HTML</b>
+![](https://raw.githubusercontent.com/utibeinyangetuk/flat-dark-plus/master/html.png)
+# - <b>CSS</b>
+![](https://raw.githubusercontent.com/utibeinyangetuk/flat-dark-plus/master/css.png)
+# - <b>JAVASCRIPT</b>
+![](https://raw.githubusercontent.com/utibeinyangetuk/flat-dark-plus/master/javascript.png)
+
+#
+## <b>my custom settings</b>
+#### ⚠️ You must have downloaded and installed Fira code font before you can set it as your editor font.
+
+
+    "editor.padding.bottom": 12,
+    "editor.padding.top": 12,
+    "editor.lineHeight": 25,
+    "editor.fontWeight": "450",
+	"editor.fontFamily": "fira code Retina",
+	"editor.fontLigatures": "'cv05','zero','onum','cv14','cv17','ss04','cv18','cv16','cv31','cv30','cv29','cv27','ss10','ss07','ss06','cv28','cv32','cv26','cv25','ss09','cv21','cv23'",
+
+
+
+### 🚨 For extra semantics highlighting, you can edit your token colors in the settings.json file using the command below
+#
+
+  "editor.semanticTokenColorCustomizations": {
+
+		"[flat dark+]": {
+			"rules": {
+				"variable": {
+					"foreground": "#8e8eeb",
+				},
+				"method": {
+					"foreground": "#d5a106",
+				},
+				"function": {
+					"foreground": "#b738ee",
+                    "fontstyle":"underline"
+				},
+				"parameter": {
+					"foreground": "#b70a3e",
+				},
+				"property": {
+					"foreground": "#698989",
+				},
+				"class": {
+					"foreground": "#ff8f0099",
+				}
+			}
+		},
+	},
