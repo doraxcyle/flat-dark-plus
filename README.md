@@ -4,7 +4,6 @@ A flat dark theme for Visual Studio Code that is based on Dark+ (default dark) b
 
 #
 ## ✨<b>New Update - version 1.0.0</b>  ✨
-
 #
 ## <b>What's new</b>?
 
