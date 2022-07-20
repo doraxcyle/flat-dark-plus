@@ -251,6 +251,22 @@
 		//"textPreformat.foreground": "#d7ba7d",
 		//"textSeparator.foreground": "#ffffff2e",
 		//"widget.shadow": "#000000"
+		// "tab.activeBackground": "#37373d",
+		"scrollbar.shadow": "#1e1e1e",
+		"statusBar.debuggingBackground": "#1e1e1e",
+		"statusBar.noFolderBackground": "#1e1e1e",
+		"menu.background": "#1e1e1e",
+		"panel.border": "#1e1e1e",
+		"tab.activeBorder": "#007acc",
+		"tab.hoverBorder": "#007acc",
+		"sash.hoverBorder": "#1e1e1e00",
+		"focusBorder": "#1e1e1e00",
+		"input.border": "#1e1e1e00",
+		"widget.shadow": "#1e1e1e00",
+		"editorOverviewRuler.border": "#1e1e1e00",
+		"tab.border": "#1e1e1e00",
+		"debugToolBar.background": "#1e1e1e",
+		"editorWidget.background": "#1e1e1e",
 	},
 	"tokenColors": [
 		{
