@@ -44,6 +44,8 @@
 		"tab.border": "#1e1e1e00",
 		"debugToolBar.background": "#1e1e1e",
 		"editorWidget.background": "#1e1e1e",
+		"list.activeSelectionBackground": "#37373c",
+		"list.hoverBackground": "#37373c"
 	},
 	"tokenColors": [
 		{
