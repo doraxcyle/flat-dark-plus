@@ -2,7 +2,7 @@
     "name": "flat-dark-plus",
     "displayName": "Flat Dark+",
     "description": "A dark theme for Visual Studio Code, The theme is based on Dark+ (default dark) , It looks like flat paper.",
-    "version": "0.0.8",
+    "version": "0.0.9",
     "publisher": "xcyl",
     "keywords": ["vscode", "dark", "dark+", "flat", "flat dark"],
     "engines": {

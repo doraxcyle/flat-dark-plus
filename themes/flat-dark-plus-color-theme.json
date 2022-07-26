@@ -49,7 +49,9 @@
 		"editor.selectionBackground": "#555555",
 		"editor.selectionHighlightBackground": "#37373c",
 		"editor.selectionHighlightBorder": "#37373c",
-		"minimap.selectionHighlight": "#555555"
+		"minimap.selectionHighlight": "#555555",
+		"editorInlayHint.background": "#1e1e1e00",
+		"editorInlayHint.foreground": "#aaaaaa"
 	},
 	"tokenColors": [
 		{
