@@ -33,6 +33,9 @@
 		"menubar.selectionBackground": "#212121",
 		"menubar.selectionBorder": "#212121",
 		"menubar.selectionForeground": "#ffffff",
+    	"settings.textInputBackground": "#292929",
+		"activityBarBadge.background": "#007ACC",
+		"sideBarTitle.foreground": "#BBBBBB",
 		"settings.numberInputBackground": "#292929",
 		"settings.textInputBackground": "#292929",
 		"sideBar.background": "#1e1e1e",
@@ -267,6 +270,15 @@
 		"tab.border": "#1e1e1e00",
 		"debugToolBar.background": "#1e1e1e",
 		"editorWidget.background": "#1e1e1e",
+		"list.activeSelectionBackground": "#37373c",
+		"list.hoverBackground": "#37373c",
+		"statusBar.focusBorder": "#1e1e1e",
+		// "editor.selectionBackground": "#555555",
+		// "editor.selectionHighlightBackground": "#37373c",
+		// "editor.selectionHighlightBorder": "#37373c",
+		// "minimap.selectionHighlight": "#555555",
+		"editorInlayHint.background": "#1e1e1e00",
+		"editorInlayHint.foreground": "#aaaaaa"
 	},
 	"tokenColors": [
 		{
